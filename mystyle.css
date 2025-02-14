@@ -1,0 +1,109 @@
+body{
+    background-color: rgb(166, 19, 202);
+    
+}
+.juu{
+    background-color: goldenrod;
+    display: flex;
+    padding: 10px;
+}
+.kushoto{
+    display: flexbox;
+    margin-left: 10px;
+    padding: 10px;
+}
+.kati{
+    display: flexbox;
+    margin-left: 10px;
+    padding: 10px;
+}
+.kulia{
+    display:flexbox;
+    margin-left: 10px;
+    padding: 10px;
+    width: 15%;
+    align-items: flex-end;
+}
+.wahudumu_wetu{
+    display:block;
+    width: 50%;
+    height: auto;
+}
+
+.picha img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin: 10px;
+}
+.div1{
+    display: flex;
+}
+.block_registration{
+    background-color: rgb(15, 126, 190);
+    width: 300px;
+    height: autox;
+    border-radius: 10px;
+    margin-left: 100px;
+    
+}
+label{
+    display: flex;
+    margin-left: 10px;
+}
+input{
+    width: 85%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.title_registration {
+    text-align: center;
+    color: rgb(107, 20, 189);
+
+}
+#reg{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 85px;
+    background-color: rgb(86, 173, 15);
+}
+.foot{
+    padding: 10px;
+}
+
+.headnav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    lighting-color: aqua;
+    
+}
+
+   
+ .headnav ul{
+    display: block;
+    width:max-content;
+    background-color:white;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    height: 100%;
+    position:relative;
+    overflow: hidden;
+    margin-left:120px;
+}
+footer p {
+    position: fixed;
+    bottom: 20px;
+    padding-bottom: 20px;
+    background-color: bisque;
+}
+.btn_update{
+    background-color: blue;
+
+}
+.btn_delete{
+    background-color: red;
+
+}

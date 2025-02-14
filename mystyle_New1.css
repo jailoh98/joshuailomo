@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(166, 19, 202);
+    
+    .container{
+        background-color: azure;
+        width: 500px;
+}
+.container{
+    background-color: azure;
+    width: 600px;
+}
+.juu{
+    background-color: goldenrod;
+    display: flex;
+    padding: 10px;
+}
+.kushoto{
+    display: flexbox;
+    margin-left: 10px;
+    padding: 10px;
+}
+.kati{
+    display: flexbox;
+    margin-left: 10px;
+    padding: 10px;
+}
+.kulia{
+    display:flexbox;
+    margin-left: 10px;
+    padding: 10px;
+    width: 15%;
+    align-items: flex-end;
+}
+.wahudumu_wetu{
+    display:block;
+    width: 50%;
+    height: auto;
+}
+
+.picha img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin: 10px;
+}
+.div1{
+    display: flex;
+}
+.block_registration{
+    background-color: rgb(15, 126, 190);
+    width: 300px;
+    height: autox;
+    border-radius: 10px;
+    margin-left: 100px;
+    
+}
+label{
+    display: flex;
+    margin-left: 10px;
+}
+input{
+    width: 85%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.title_registration {
+    text-align: center;
+    color: rgb(107, 20, 189);
+
+}
+#reg{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 85px;
+    background-color: rgb(86, 173, 15);
+}
+.foot{
+    padding: 10px;
+}
+.kichwa_wateja{
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+    font-style: italic;
+}
+

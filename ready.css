@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(153, 204, 12);
+  
+}
+.vichwa_vya_table{
+    text-align: center;}
+    
+.btn_update{
+    background-color: blue;
+
+}
+.btn_delete{
+    background-color: red;
+
+}
